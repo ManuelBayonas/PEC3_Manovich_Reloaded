@@ -48,12 +48,12 @@ Linklater ya había experimentado con las técnicas de rotoscopia en su películ
 </figure>
 
 <figure>
-<img src="" alt="" width="200">
+<img src="https://pics.filmaffinity.com/Waking_Life-893719971-large.jpg" alt="Fotograma de la película Waking Life" width="200">
 <figcaption><em>Waking Life © 20th Century Fox Film Corp.</em></figcaption>
 </figure>
 
 <figure>
-<img src="" alt="" width="200">
+<img src="https://filmgrab.files.wordpress.com/2014/07/4385.jpg" alt="Fotograma de la película Waking Life" width="200">
 <figcaption><em>Waking Life © 20th Century Fox Film Corp.</em></figcaption>
 </figure>
 
@@ -61,14 +61,7 @@ Linklater ya había experimentado con las técnicas de rotoscopia en su películ
 <img src="https://media.press.amazonstudios.com/userfiles/images/Undone/Episodic/UNDONE_102_SG_023_rgb_thumb.JPG" alt="Imagen de Rosa Salazar (Alma Winograd-Díaz)">
 <figcaption><em>Undone - Episode 102 - The hospital - Courtesy of Amazon Studios © Amazon Studios</em></figcaption>
 </figure>
-
-![Fotograma de la película Waking Life](https://pics.filmaffinity.com/Waking_Life-893719971-large.jpg)
-*Waking life © 20th Century Fox Film Corp.*
-
-![Fotograma de la película Waking Life](https://filmgrab.files.wordpress.com/2014/07/4385.jpg)
-*Waking life © 20th Century Fox Film Corp.*
-
-![Fotograma de la serie Undone](https://variety.com/wp-content/uploads/2019/09/undone-undone_102_sg_023_rgb.jpg)
-*Undone © Amazon Studios*
-![Fotograma de la serie Undone](https://www.mcgilltribune.com/wp-content/uploads/2019/09/blog.screenweek.it_.jpg)
-*Undone © Amazon Studios*
+<figure>
+<img src="https://media.press.amazonstudios.com/userfiles/images/Undone/Episodic_2/UNDONE_104_SG_026_thumb.JPG" alt="De izquierda a derecha - Imagen de Rosa Salazar (Alma Winograd-Díaz) - Imagen de Bob Odenkirk (Jacob Winograd)">
+<figcaption><em>Undone - Episode 104 - Moving the keys - Courtesy of Amazon Studios © Amazon Studios</em></figcaption>
+</figure>
