@@ -5,7 +5,7 @@
 *Fecha:* 21/12/22
 
  - ***A Scanner Darkly***: Hibridación entre cine tradicional e ilustración.
- - **Heavy Rain**: Hibridación entre cine y videojuegos.
+ - ***Heavy Rain***: Hibridación entre cine y videojuegos.
 
 
 ## A Scanner Darkly: Hibridación entre cine tradicional e ilustración
@@ -23,19 +23,19 @@ La cinematografía se basa en la creación de secuencias de imágenes que simula
 
 ### Primeras hibridaciones cinematográficas
 
-Hoy en día, la hibridación en cinematografía es la norma, mientras que cualquier estilo singular de creación - acción en vivo, ilustración, animación digital, fotograma a fotograma, etc.- es excepcional. Sin embargo, los primeros ejemplos de hibridación eran una especie de collage en el que las diferentes técnicas utilizadas eran evidentes a simple vista. La fusión de medios se perfecciona por primera vez en la película Matrix (Lilly y Lana Wachowski, 1999), en la que es imposible distinguir entre las escenas filmadas y las generadas por ordenador. Es en este momento cuando se puede hablar de “una nueva especie, un nuevo tipo de estética visual que no existía previamente” (Manovich, 2007).
+Hoy en día, la hibridación en cinematografía es la norma, mientras que cualquier estilo singular de creación - acción en vivo, ilustración, animación digital, fotograma a fotograma, etc.- es excepcional. Sin embargo, los primeros ejemplos de hibridación eran una especie de collage en el que las diferentes técnicas utilizadas eran evidentes a simple vista. La fusión de medios se perfecciona por primera vez en la película *Matrix* (Lilly y Lana Wachowski, 1999), en la que es imposible distinguir entre las escenas filmadas y las generadas por ordenador. Es en este momento cuando se puede hablar de “una nueva especie, un nuevo tipo de estética visual que no existía previamente” (Manovich, 2007).
 
 ### La visión de Linklater
 
-Se propone que la película A Scanner Darkly supone un hito similar de la hibridación cinematográfica. En este caso, mediante la fusión de la fotografía y la ilustración creada por rotoscopia. Esta técnica se remonta a los inicios del cine, cuando se utilizaba para trazar secuencias de acción en vivo, proyectadas fotograma a fotograma sobre papel, como referencia del movimiento para los animadores. En 1919, se publicó el primer personaje de dibujos animados creado por rotoscopia, ‘Koko el payaso’, de Max Fleischer. Un siglo más tarde, esta labor se realiza de forma digital utilizando programas informáticos como Nuke, Silhouette o After Effects (Reinares y Torres, 2019).
+Se propone que la película *A Scanner Darkly* supone un hito similar de la hibridación cinematográfica. En este caso, mediante la fusión de la fotografía y la ilustración creada por rotoscopia. Esta técnica se remonta a los inicios del cine, cuando se utilizaba para trazar secuencias de acción en vivo, proyectadas fotograma a fotograma sobre papel, como referencia del movimiento para los animadores. En 1919, se publicó el primer personaje de dibujos animados creado por rotoscopia, ‘Koko el payaso’, de Max Fleischer. Un siglo más tarde, esta labor se realiza de forma digital utilizando programas informáticos como Nuke, Silhouette o After Effects (Reinares y Torres, 2019).
 
-En la obra de Linklater, todas las escenas fueron filmadas como acción real y después ilustradas con técnicas de rotoscopia. Así, el resultado final es una cinta de animación que mantiene la narrativa y el impacto visual de un ‘action film’, con una estética coherente de novela gráfica. La justificación de la hibridación mediática en este film es comunicar al espectador la fragilidad de la vida y el horror de la locura provocadas por el consumo de drogas. Después de todo, la historia original de Phillip K. Dick habla de la oscuridad, una temática difícilmente expresada mediante la fotografía que se basa, precisamente, en la luz. Por el mismo motivo, Loving Vincent (Dorota Kobiela y Hugh Welchman, 2017) utiliza la hibridación de la cinematografía y la pintura al óleo para transportarnos al universo del genio del postimpresionismo. La película se filmó con actores, pero el metraje final se compuso con 64.000 fotogramas pintados sobre lienzo (Mackiewicz y Melendez, 2016).
+En la obra de Linklater, todas las escenas fueron filmadas como acción real y después ilustradas con técnicas de rotoscopia. Así, el resultado final es una cinta de animación que mantiene la narrativa y el impacto visual de un ‘action film’, con una estética coherente de novela gráfica. La justificación de la hibridación mediática en este film es comunicar al espectador la fragilidad de la vida y el horror de la locura provocadas por el consumo de drogas. Después de todo, la historia original de Phillip K. Dick habla de la oscuridad, una temática difícilmente expresada mediante la fotografía que se basa, precisamente, en la luz. Por el mismo motivo, *Loving Vincent* (Dorota Kobiela y Hugh Welchman, 2017) utiliza la hibridación de la cinematografía y la pintura al óleo para transportarnos al universo del genio del postimpresionismo. La película se filmó con actores, pero el metraje final se compuso con 64.000 fotogramas pintados sobre lienzo (Mackiewicz y Melendez, 2016).
 
 El hecho de que distintos medios tengan un punto de encuentro en común, el software digital, hace posible lo que Manovich denomina una “remixabilidad profunda”, esencia de la “revolución híbrida”, que surge no solo por un producto final distintivo sino, también, por la fusión de distintas técnicas. Así, la cinematografía, la animación, los efectos especiales, el diseño gráfico, etc. conforman un nuevo metamedio.
 
 ### Otros ejemplos del híbrido cine-ilustración
 
-Linklater ya había experimentado con las técnicas de rotoscopia en su película Waking Life (2001). El resultado de este film se acerca mucho a la hibridación de la que habla Manovich, pero no llega a ser una fusión indistinguible de medios como en su obra de 2006. Otro ejemplo más reciente de hibridación entre cinematografía e ilustración es la serie Undone (Hisko Hulsing, 2019). En los tres casos, se hace evidente que la hibridación del cine tradicional y la ilustración es un modo idóneo de crear una narrativa onírica, distorsionada y extravagante, pero al mismo tiempo profundamente ligada a la realidad, algo que sería más difícil plasmar de manera convincente utilizando sólo una de estas técnicas.
+Linklater ya había experimentado con las técnicas de rotoscopia en su película *Waking Life* (2001). El resultado de este film se acerca mucho a la hibridación de la que habla Manovich, pero no llega a ser una fusión indistinguible de medios como en su obra de 2006. Otro ejemplo más reciente de hibridación entre cinematografía e ilustración es la serie *Undone* (Hisko Hulsing, 2019). En los tres casos, se hace evidente que la hibridación del cine tradicional y la ilustración es un modo idóneo de crear una narrativa onírica, distorsionada y extravagante, pero al mismo tiempo profundamente ligada a la realidad, algo que sería más difícil plasmar de manera convincente utilizando sólo una de estas técnicas.
 
 #### Tabla comparativa de imágens que pretenden ser más realistas en contraposición a las que tienen un carácter onírico y distorsionado
 |Imágenes realistas|Imágenes oníricas|
@@ -85,23 +85,23 @@ La inclusión de la narrativa cinematográfica en el videojuego tiene su contrap
 ## Bibliografía
 ### A Scanner Darkly: Hibridación entre cine tradicional e ilustración
 
-Dick, Phillip K (1977), Una mirada a la oscuridad. Ed. 1980 Ediciones Acervo. Traducción de César Terrón. https://www.historiaspulp.com/wp-content/uploads/Dick-Philip-K-Una-Mirada-a-la-Oscuridad.pdf
+Dick, Phillip K (1977), *Una mirada a la oscuridad.* Ed. 1980 Ediciones Acervo. Traducción de César Terrón. https://www.historiaspulp.com/wp-content/uploads/Dick-Philip-K-Una-Mirada-a-la-Oscuridad.pdf
 
-Mackiewicz, Lukasz y Melendez, Francho (2016), Loving Vincent: guiding painters through 64.000 frames. In ACM SIGGRAPH 2016 Talks (SIGGRAPH '16). Association for Computing Machinery, New York, NY, USA, Article 6, 1–2. https://doi.org/10.1145/2897839.2927394
+Mackiewicz, Lukasz y Melendez, Francho (2016), *Loving Vincent: guiding painters through 64.000 frames.* In ACM SIGGRAPH 2016 Talks (SIGGRAPH '16). Association for Computing Machinery, New York, NY, USA, Article 6, 1–2. https://doi.org/10.1145/2897839.2927394
 
-Manovich, Lev (2007), Understanding Hybrid Media. Publicado en Betti-Sue Hertz, ed., Animated Paintings (San Diego: San Diego Museum of Art, 2007). 
+Manovich, Lev (2007), *Understanding Hybrid Media.* Publicado en Betti-Sue Hertz, ed., Animated Paintings (San Diego: San Diego Museum of Art, 2007). 
 http://manovich.net/content/04-projects/055-understanding-hybrid-media/52_article_2007.pdf
 
-Reinares, Claudia y Torres, Laura (2019), Rotoscopia. A Scanner Darkly. TFM Máster en Cine y Televisión, Universidad Carlos III de Madrid. https://postproduccion.uc3m.es/wp-content/uploads/2019/04/Reinares-Torres-ROTOSCOPIA_compressed.pdf
+Reinares, Claudia y Torres, Laura (2019), *Rotoscopia. A Scanner Darkly.* TFM Máster en Cine y Televisión, Universidad Carlos III de Madrid. https://postproduccion.uc3m.es/wp-content/uploads/2019/04/Reinares-Torres-ROTOSCOPIA_compressed.pdf
 
 
 ### Heavy Rain: Hibridación entre cine y videojuegos
 
-Baer, M. W., & Hui, J. K. (2019), How Interactive Video Games Helped Shape the Modern Computer World. In 2019 6th IEEE History of Electrotechnology Conference (HISTELCON) (pp. 78-79). IEEE. https://doi.org/10.1109/HISTELCON47851.2019.9040031
+Baer, M. W., & Hui, J. K. (2019), *How Interactive Video Games Helped Shape the Modern Computer World.* In 2019 6th IEEE History of Electrotechnology Conference (HISTELCON) (pp. 78-79). IEEE. https://doi.org/10.1109/HISTELCON47851.2019.9040031
 
-González, Juan Francisco (2002), Aprender a ver cine. La educación de los sentimientos en el séptimo arte. Eds. Rialp S.A. Madrid
+González, Juan Francisco (2002), *Aprender a ver cine. La educación de los sentimientos en el séptimo arte.* Eds. Rialp S.A. Madrid
 
-Manovich, Lev (2007), Understanding Hybrid Media. Publicado en Betti-Sue Hertz, ed., Animated Paintings (San Diego: San Diego Museum of Art, 2007). 
+Manovich, Lev (2007), *Understanding Hybrid Media.* Publicado en Betti-Sue Hertz, ed., Animated Paintings (San Diego: San Diego Museum of Art, 2007). 
 http://manovich.net/content/04-projects/055-understanding-hybrid-media/52_article_2007.pdf
 
-Manovich, Lev (2013), Software takes command. Bloomsbury Academic. Citado en Adell Ferran, Remediación, multimedia e hibridación de los medios. http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+Manovich, Lev (2013), *Software takes command.* Bloomsbury Academic. Citado en Adell Ferran, *Remediación, multimedia e hibridación de los medios.* http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
