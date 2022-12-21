@@ -1,18 +1,19 @@
 # PEC3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
+\
 *Autor:* Manuel Bayonas Martínez
 
 *Fecha:* 21/12/22
 
  - **A Scanner Darkly**: Hibridación entre cine tradicional e ilustración.
  - **Heavy Rain**: Hibridación entre cine y videojuegos.
-
+\
+\
 ## A Scanner Darkly: Hibridación entre cine tradicional e ilustración
 
 > Todos seremos transformados, siguió pensando tristemente, porque ahora
 > mismo estamos jodidamente invertidos.
 > *Una mirada a la oscuridad*, **Phillip K. Dick**
-
-
+\
 ![Póster promocional de la película Una mirada en la oscuridad, dirigida por Richard Linklater](images/A_Scanner_Darkly_promo.jpg)
 *A Scanner Darkly © Warner Bros Entertainment Inc.*  
 \
