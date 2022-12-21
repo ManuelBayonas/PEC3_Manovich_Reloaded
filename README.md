@@ -85,6 +85,23 @@ La inclusión de la narrativa cinematográfica en el videojuego tiene su contrap
 ## Bibliografía
 ### A Scanner Darkly: Hibridación entre cine tradicional e ilustración
 
+Dick, Phillip K (1977), Una mirada a la oscuridad. Ed. 1980 Ediciones Acervo. Traducción de César Terrón. https://www.historiaspulp.com/wp-content/uploads/Dick-Philip-K-Una-Mirada-a-la-Oscuridad.pdf
+
+Mackiewicz, Lukasz y Melendez, Francho (2016), Loving Vincent: guiding painters through 64.000 frames. In ACM SIGGRAPH 2016 Talks (SIGGRAPH '16). Association for Computing Machinery, New York, NY, USA, Article 6, 1–2. https://doi.org/10.1145/2897839.2927394
+
+Manovich, Lev (2007), Understanding Hybrid Media. Publicado en Betti-Sue Hertz, ed., Animated Paintings (San Diego: San Diego Museum of Art, 2007). 
+http://manovich.net/content/04-projects/055-understanding-hybrid-media/52_article_2007.pdf
+
+Reinares, Claudia y Torres, Laura (2019), Rotoscopia. A Scanner Darkly. TFM Máster en Cine y Televisión, Universidad Carlos III de Madrid. https://postproduccion.uc3m.es/wp-content/uploads/2019/04/Reinares-Torres-ROTOSCOPIA_compressed.pdf
+
+
 ### Heavy Rain: Hibridación entre cine y videojuegos
 
+Baer, M. W., & Hui, J. K. (2019), How Interactive Video Games Helped Shape the Modern Computer World. In 2019 6th IEEE History of Electrotechnology Conference (HISTELCON) (pp. 78-79). IEEE. https://doi.org/10.1109/HISTELCON47851.2019.9040031
 
+González, Juan Francisco (2002), Aprender a ver cine. La educación de los sentimientos en el séptimo arte. Eds. Rialp S.A. Madrid
+
+Manovich, Lev (2007), Understanding Hybrid Media. Publicado en Betti-Sue Hertz, ed., Animated Paintings (San Diego: San Diego Museum of Art, 2007). 
+http://manovich.net/content/04-projects/055-understanding-hybrid-media/52_article_2007.pdf
+
+Manovich, Lev (2013), Software takes command. Bloomsbury Academic. Citado en Adell Ferran, Remediación, multimedia e hibridación de los medios. http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
