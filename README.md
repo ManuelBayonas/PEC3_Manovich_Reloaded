@@ -58,9 +58,10 @@ Linklater ya había experimentado con las técnicas de rotoscopia en su películ
 </figure>
 
 <figure>
-<img src="https://media.press.amazonstudios.com/userfiles/images/Undone/Episodic/UNDONE_102_SG_023_rgb_thumb.JPG" alt="Imagen de Rosa Salazar (Alma Winograd-Díaz)">
+<img src="https://media.press.amazonstudios.com/userfiles/images/Undone/Episodic/UNDONE_102_SG_023_rgb_thumb.jpg" alt="Imagen de Rosa Salazar (Alma Winograd-Díaz)">
 <figcaption><em>Undone - Episode 102 - The hospital - Courtesy of Amazon Studios © Amazon Studios</em></figcaption>
 </figure>
+
 <figure>
 <img src="https://media.press.amazonstudios.com/userfiles/images/Undone/Episodic_2/UNDONE_104_SG_026_thumb.JPG" alt="De izquierda a derecha - Imagen de Rosa Salazar (Alma Winograd-Díaz) - Imagen de Bob Odenkirk (Jacob Winograd)">
 <figcaption><em>Undone - Episode 104 - Moving the keys - Courtesy of Amazon Studios © Amazon Studios</em></figcaption>
