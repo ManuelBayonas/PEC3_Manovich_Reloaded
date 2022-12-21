@@ -68,14 +68,15 @@ Respecto al guión, está estructurado como en un psicothriller, un subgénero q
 
 La narrativa audiovisual utiliza recursos de composición y movimientos de cámara del cine durante las secuencias de animación pero también en los momentos en que el jugador debe participar en la acción. Antecedentes del género de los videojuegos de ‘survival horror’ como Alone in the Dark (Frédérick Raynal, 1992) o Silent Hill (Keiichiro Toyama, 1999) no habían conseguido mantener el lenguaje cinematográfico durante las secuencias de acción.
 
+
+El la siguiente tabla podemos observar que en Heavy Rain, tanto las secuencias de vídeo como las secuencias de juego conservan composiciones significativas. En cambio, en Silent Hill la cámara, situada en picado permanente durante la acción, rompe la ilusión cinematográfica.
+
 |Secuencias de vídeo|Secuencias de acción|
 |---|---|
 |![Heavy Rain 1-a](images/Heavy_Rain_secuencia_vídeo_1.jpg) *Heavy Rain © 2022 Quantic Dream*|![Heavy Rain 1-b](images/Heavy_Rain_secuencia_acción_1.jpg) *Heavy Rain © 2022 Quantic Dream*|
 |![Heavy Rain 2-a](images/Heavy_Rain_secuencia_vídeo_2.jpg)*Heavy Rain © 2022 Quantic Dream*|![Heavy Rain 2-b](images/Heavy_Rain_secuencia_acción_2.jpg)*Heavy Rain © 2022 Quantic Dream*|
 |![Silent Hill 1-a](images/Silent_Hill_secuencia_vídeo_1.jpg)*Silent Hill © Konami Digital Entertainment*|![Silent Hill 1-b](images/Silent_Hill_secuencia_acción_1.jpg)*Silent Hill © Konami Digital Entertainment*|
 |![Silent Hill 2-a](images/Silent_Hill_secuencia_vídeo_2.jpg)*Silent Hill © Konami Digital Entertainment*|![Silent Hill 2-b](images/Silent_Hill_secuencia_acción_2.jpg)*Silent Hill © Konami Digital Entertainment*|
-Secuencias de vídeo (izquierda) y secuencias de acción (derecha) en Heavy Rain. Todas conservan composiciones significativas.
-Secuencias de vídeo (izquierda) y secuencias de acción (derecha) en Silent Hill. La cámara, situada en picado permanente durante la acción, rompe la ilusión cinematográfica.
 
 ### Elije tu aventura
 La inclusión de la narrativa cinematográfica en el videojuego tiene su contraparte en la interactividad de las producciones audiovisuales. Plataformas de ‘streaming’ como Netflix, ofrecen algunas películas y series en las que el espectador puede elegir cómo se desarrollará el argumento en base a distintas alternativas. Por ejemplo, Black Mirror: Bandersnatch (David Slade, 2018) es una película de 150 minutos de metraje dividida en 250 segmentos con cinco finales alternativos. Tanto el cine interactivo como los videojuegos cinematográficos podrían ser el hiper vídeo perdido del que habla Manovich (2007): “escenas conectadas mediante enlaces en los que puede pinchar un usuario”, como en las novelas de ‘elige tu aventura’.
