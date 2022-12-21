@@ -13,6 +13,9 @@ Incluir párrafo introductorio que cohesione el resto del contenido
 > mismo estamos jodidamente invertidos.
 > *Una mirada a la oscuridad*, **Phillip K. Dick**
 <br>
+![Póster promocional de la película Una mirada en la oscuridad, dirigida por Richard Linklater](images/A_Scanner_Darkly_Poster.png)
+*A Scanner Darkly © Warner Bros Entertainment Inc.*
+
 <figure>
 <img src="https://miro.medium.com/max/720/1*AgEbGcx31n3tANQx9GYVZQ.webp" alt="Póster de la película A Scanner Darkly" width="1000">
 <figcaption><em>A Scanner Darkly © Warner Bros Entertainment Inc.</em></figcaption>
