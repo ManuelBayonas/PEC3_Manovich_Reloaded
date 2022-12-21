@@ -9,6 +9,7 @@
 
 \
 \
+
 ## A Scanner Darkly: Hibridación entre cine tradicional e ilustración
 
 > Todos seremos transformados, siguió pensando tristemente, porque ahora
