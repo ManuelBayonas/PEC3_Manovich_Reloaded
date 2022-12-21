@@ -14,7 +14,7 @@ Incluir párrafo introductorio que cohesione el resto del contenido
 > *Una mirada a la oscuridad*, **Phillip K. Dick**
 <br>
 <figure>
-<img src="https://rowenafoxelle.files.wordpress.com/2015/05/scanner_darkly_1.jpg" alt="Póster de la película A Scanner Darkly" width="1000">
+<img src="https://miro.medium.com/max/720/1*AgEbGcx31n3tANQx9GYVZQ.webp" alt="Póster de la película A Scanner Darkly" width="1000">
 <figcaption><em>A Scanner Darkly © Warner Bros Entertainment Inc.</em></figcaption>
 </figure>
 <br>
