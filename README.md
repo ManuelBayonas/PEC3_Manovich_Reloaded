@@ -8,7 +8,7 @@ Incluir párrafo introductorio que cohesione el resto del contenido
  - **A Scanner Darkly**: Hibridación entre cine tradicional e ilustración.
  - **Heavy Rain**: Hibridación entre cine y videojuegos.
 
-## A Scanner Darkly
+## A Scanner Darkly: Hibridación entre cine tradicional e ilustración.
 
 > Todos seremos transformados, siguió pensando tristemente, porque ahora
 > mismo estamos jodidamente invertidos.
