@@ -71,6 +71,13 @@ La narrativa audiovisual utiliza recursos de composición y movimientos de cáma
 Secuencias de vídeo (izquierda) y secuencias de acción (derecha) en Heavy Rain. Todas conservan composiciones significativas.
 Secuencias de vídeo (izquierda) y secuencias de acción (derecha) en Silent Hill. La cámara, situada en picado permanente durante la acción, rompe la ilusión cinematográfica.
 
-### Elije tu historia
+### Elije tu aventura
 La inclusión de la narrativa cinematográfica en el videojuego tiene su contraparte en la interactividad de las producciones audiovisuales. Plataformas de ‘streaming’ como Netflix, ofrecen algunas películas y series en las que el espectador puede elegir cómo se desarrollará el argumento en base a distintas alternativas. Por ejemplo, Black Mirror: Bandersnatch (David Slade, 2018) es una película de 150 minutos de metraje dividida en 250 segmentos con cinco finales alternativos. Tanto el cine interactivo como los videojuegos cinematográficos podrían ser el hiper vídeo perdido del que habla Manovich (2007): “escenas conectadas mediante enlaces en los que puede pinchar un usuario”, como en las novelas de ‘elige tu aventura’.
+***
+***
+## Bibliografía
+### A Scanner Darkly
+
+### Heavy Rain
+
 
