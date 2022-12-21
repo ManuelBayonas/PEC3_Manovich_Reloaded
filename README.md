@@ -21,13 +21,11 @@ Incluir párrafo introductorio que cohesione el resto del contenido
 
 La cinematografía se basa en la creación de secuencias de imágenes que simulan movimiento. Bien sea mediante el uso de cámaras analógicas o digitales, el cine es principalmente un medio fotográfico. Sin embargo, podemos encontrar casos de hibridación entre el medio cinematográfico y la ilustración. Un ejemplo significativo es la película *A Scanner Darkly* (Richard Linklater, 2006), filmada digitalmente y posteriormente ilustrada mediante **rotoscopia interpolada**. Mediante la hibridación, la película comunica de forma efectiva la narrativa distópica y fantástica de la novela original de Philip K. Dick, ambientada en una subcultura de las drogas, que juega con los binomios realidad y delirio, luz y oscuridad, vida y muerte.
 
-***
 
 ### Primeras hibridaciones cinematográficas
 
 Hoy en día, la hibridación en cinematografía es la norma, mientras que cualquier estilo singular de creación - acción en vivo, ilustración, animación digital, fotograma a fotograma, etc.- es excepcional. Sin embargo, los primeros ejemplos de hibridación eran una especie de collage en el que las diferentes técnicas utilizadas eran evidentes a simple vista. La fusión de medios se perfecciona por primera vez en la película Matrix (Lilly y Lana Wachowski, 1999), en la que es imposible distinguir entre las escenas filmadas y las generadas por ordenador. Es en este momento cuando se puede hablar de “una nueva especie, un nuevo tipo de estética visual que no existía previamente” (Manovich, 2007).
 
-***
 
 ### La visión de Linklater
 
@@ -37,13 +35,11 @@ En la obra de Linklater, todas las escenas fueron filmadas como acción real y d
 
 El hecho de que distintos medios tengan un punto de encuentro en común, el software digital, hace posible lo que Manovich denomina una “remixabilidad profunda”, esencia de la “revolución híbrida”, que surge no solo por un producto final distintivo sino, también, por la fusión de distintas técnicas. Así, la cinematografía, la animación, los efectos especiales, el diseño gráfico, etc. conforman un nuevo metamedio.
 
-***
 
 ### Otros ejemplos del híbrido cine-ilustración
 
 Linklater ya había experimentado con las técnicas de rotoscopia en su película Waking Life (2001). El resultado de este film se acerca mucho a la hibridación de la que habla Manovich, pero no llega a ser una fusión indistinguible de medios como en su obra de 2006. Otro ejemplo más reciente de hibridación entre cinematografía e ilustración es la serie Undone (Hisko Hulsing, 2019). En los tres casos, se hace evidente que la hibridación del cine tradicional y la ilustración es un modo idóneo de crear una narrativa onírica, distorsionada y extravagante, pero al mismo tiempo profundamente ligada a la realidad, algo que sería más difícil plasmar de manera convincente utilizando sólo una de estas técnicas.
 
-***
 
 #### Tabla comparativa de imágens que pretenden ser más realistas en contraposición a las que tienen un carácter onírico y distorsionado
 |Imágenes realistas|Imágenes oníricas|
