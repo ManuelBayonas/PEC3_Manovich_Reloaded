@@ -1,5 +1,6 @@
 # PEC3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 *Autor:* Manuel Bayonas Martínez
+
 *Fecha:* 21/12/22
 
 Incluir párrafo introductorio que cohesione el resto del contenido
