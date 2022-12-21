@@ -54,8 +54,10 @@ Linklater ya había experimentado con las técnicas de rotoscopia en su películ
 
 ***
 
-## Heavy Rain**: Hibridación entre cine y videojuegos
+## Heavy Rain: Hibridación entre cine y videojuegos
 
 >A glimpse into the world proves that horror is nothing other than reality.
 >**Alfred Hitchcock**
 
+![Imagen promocional del videojuego Heavy Rain](images/Heavy_Rain_banner.jpg)
+*Heavy Rain © 2022 Quantic Dream*
