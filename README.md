@@ -17,13 +17,8 @@ Incluir párrafo introductorio que cohesione el resto del contenido
 ![Póster promocional de la película Una mirada en la oscuridad, dirigida por Richard Linklater](images/A_Scanner_Darkly_promo.jpg)
 *A Scanner Darkly © Warner Bros Entertainment Inc.*
 
-<figure>
-<img src="https://miro.medium.com/max/720/1*AgEbGcx31n3tANQx9GYVZQ.webp" alt="Póster de la película A Scanner Darkly" width="1000">
-<figcaption><em>A Scanner Darkly © Warner Bros Entertainment Inc.</em></figcaption>
-</figure>
-<br><br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La cinematografía se basa en la creación de secuencias de imágenes que simulan movimiento. Bien sea mediante el uso de cámaras analógicas o digitales, el cine es principalmente un medio fotográfico. Sin embargo, podemos encontrar casos de hibridación entre el medio cinematográfico y la ilustración. Un ejemplo significativo es la película *A Scanner Darkly* (Richard Linklater, 2006), filmada digitalmente y posteriormente ilustrada mediante **rotoscopia interpolada**. Mediante la hibridación, la película comunica de forma efectiva la narrativa distópica y fantástica de la novela original de Philip K. Dick, ambientada en una subcultura de las drogas, que juega con los binomios realidad y delirio, luz y oscuridad, vida y muerte.
+La cinematografía se basa en la creación de secuencias de imágenes que simulan movimiento. Bien sea mediante el uso de cámaras analógicas o digitales, el cine es principalmente un medio fotográfico. Sin embargo, podemos encontrar casos de hibridación entre el medio cinematográfico y la ilustración. Un ejemplo significativo es la película *A Scanner Darkly* (Richard Linklater, 2006), filmada digitalmente y posteriormente ilustrada mediante **rotoscopia interpolada**. Mediante la hibridación, la película comunica de forma efectiva la narrativa distópica y fantástica de la novela original de Philip K. Dick, ambientada en una subcultura de las drogas, que juega con los binomios realidad y delirio, luz y oscuridad, vida y muerte.
 
 ***
 
@@ -35,7 +30,7 @@ Incluir párrafo introductorio que cohesione el resto del contenido
 
 ### La visión de Linklater
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Se propone que la película A Scanner Darkly supone un hito similar de la hibridación cinematográfica. En este caso, mediante la fusión de la fotografía y la ilustración creada por rotoscopia. Esta técnica se remonta a los inicios del cine, cuando se utilizaba para trazar secuencias de acción en vivo, proyectadas fotograma a fotograma sobre papel, como referencia del movimiento para los animadores. En 1919, se publicó el primer personaje de dibujos animados creado por rotoscopia, ‘Koko el payaso’, de Max Fleischer. Un siglo más tarde, esta labor se realiza de forma digital utilizando programas informáticos como Nuke, Silhouette o After Effects (Reinares y Torres, 2019).
+   Se propone que la película A Scanner Darkly supone un hito similar de la hibridación cinematográfica. En este caso, mediante la fusión de la fotografía y la ilustración creada por rotoscopia. Esta técnica se remonta a los inicios del cine, cuando se utilizaba para trazar secuencias de acción en vivo, proyectadas fotograma a fotograma sobre papel, como referencia del movimiento para los animadores. En 1919, se publicó el primer personaje de dibujos animados creado por rotoscopia, ‘Koko el payaso’, de Max Fleischer. Un siglo más tarde, esta labor se realiza de forma digital utilizando programas informáticos como Nuke, Silhouette o After Effects (Reinares y Torres, 2019).
 
 En la obra de Linklater, todas las escenas fueron filmadas como acción real y después ilustradas con técnicas de rotoscopia. Así, el resultado final es una cinta de animación que mantiene la narrativa y el impacto visual de un ‘action film’, con una estética coherente de novela gráfica. La justificación de la hibridación mediática en este film es comunicar al espectador la fragilidad de la vida y el horror de la locura provocadas por el consumo de drogas. Después de todo, la historia original de Phillip K. Dick habla de la oscuridad, una temática difícilmente expresada mediante la fotografía que se basa, precisamente, en la luz. Por el mismo motivo, Loving Vincent (Dorota Kobiela y Hugh Welchman, 2017) utiliza la hibridación de la cinematografía y la pintura al óleo para transportarnos al universo del genio del postimpresionismo. La película se filmó con actores, pero el metraje final se compuso con 64.000 fotogramas pintados sobre lienzo (Mackiewicz y Melendez, 2016).
 
