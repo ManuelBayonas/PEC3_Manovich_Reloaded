@@ -70,10 +70,10 @@ La narrativa audiovisual utiliza recursos de composición y movimientos de cáma
 
 |Secuencias de vídeo|Secuencias de acción|
 |---|---|
-|![Heavy Rain 1-a](images/Heavy_Rain_secuencia_vídeo_1.jpg) *A Scanner Darkly © Warner Bros Entertainment Inc.*|![Heavy Rain 1-b](images/Heavy_Rain_secuencia_acción_1.jpg) *A Scanner Darkly © Warner Bros Entertainment Inc.*|
-|![Heavy Rain 2-a](images/Waking_Life_realista.jpeg)*Waking Life © 20th Century Fox Film Corp.*|![Heavy Rain 2-b](images/Waking_Life_onírica.jpg)*Waking Life © 20th Century Fox Film Corp.*|
-|![Silent Hill 1-a](images/Undone_realista.jpeg)*Undone © Amazon Studios*|![Silent Hill 1-b](images/Undone_onírica.jpg)*Undone © Amazon Studios*|
-|![Silent Hill 2-a](images/Undone_realista.jpeg)*Undone © Amazon Studios*|![Silent Hill 2-b](images/Undone_onírica.jpg)*Undone © Amazon Studios*|
+|![Heavy Rain 1-a](images/Heavy_Rain_secuencia_vídeo_1.jpg) *Heavy Rain © 2022 Quantic Dream*|![Heavy Rain 1-b](images/Heavy_Rain_secuencia_acción_1.jpg) *Heavy Rain © 2022 Quantic Dream*|
+|![Heavy Rain 2-a](images/Heavy_Rain_secuencia_vídeo_2.jpg)*Heavy Rain © 2022 Quantic Dream*|![Heavy Rain 2-b](images/Heavy_Rain_secuencia_acción_2.jpg)*Heavy Rain © 2022 Quantic Dream*|
+|![Silent Hill 1-a](images/Silent_Hill_secuencia_vídeo_1.jpg)*Silent Hill © Konami Digital Entertainment*|![Silent Hill 1-b](images/Silent_Hill_secuencia_acción_1.jpg)*Silent Hill © Konami Digital Entertainment*|
+|![Silent Hill 2-a](images/Silent_Hill_secuencia_vídeo_2.jpg)*Silent Hill © Konami Digital Entertainment*|![Silent Hill 2-b](images/Silent_Hill_secuencia_acción_2.jpg)*Silent Hill © Konami Digital Entertainment*|
 Secuencias de vídeo (izquierda) y secuencias de acción (derecha) en Heavy Rain. Todas conservan composiciones significativas.
 Secuencias de vídeo (izquierda) y secuencias de acción (derecha) en Silent Hill. La cámara, situada en picado permanente durante la acción, rompe la ilusión cinematográfica.
 
