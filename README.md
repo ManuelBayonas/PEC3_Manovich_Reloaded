@@ -15,7 +15,7 @@ Incluir párrafo introductorio que cohesione el resto del contenido
 <br>
 <p align="center">
 <figure>
-<img src="https://m.media-amazon.com/images/M/MV5BOTc2ZGI2MzEtODlkNC00MGQ4LTlkYjQtMDU0YTg1YTI0NDI1L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="Póster de la película A Scanner Darkly" width="400">
+<img src="https://rowenafoxelle.files.wordpress.com/2015/05/scanner_darkly_1.jpg" alt="Póster de la película A Scanner Darkly" width="400">
 <figcaption><em>A Scanner Darkly © Warner Bros Entertainment Inc.</em></figcaption>
 </figure>
  </p>
