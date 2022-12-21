@@ -42,7 +42,7 @@ Linklater ya había experimentado con las técnicas de rotoscopia en su películ
 <figcaption><em>A Scanner Darkly © Warner Bros Entertainment Inc.</em></figcaption>
 </figure>
 <figure>
-<img src="(https://www.slashfilm.com/img/gallery/how-school-of-rock-pushed-robert-downey-jr-to-star-in-a-scanner-darkly/intro-1657228293.jpg" alt="Fotograma de la película A Scanner Darkly, Robert Downey Jr." width="200">
+<img src="https://www.slashfilm.com/img/gallery/how-school-of-rock-pushed-robert-downey-jr-to-star-in-a-scanner-darkly/intro-1657228293.jpg" alt="Fotograma de la película A Scanner Darkly, Robert Downey Jr." width="200">
 <figcaption><em>A Scanner Darkly © Warner Bros Entertainment Inc.</em></figcaption>
 </figure>
 
