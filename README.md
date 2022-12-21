@@ -105,3 +105,5 @@ Manovich, Lev (2007), *Understanding Hybrid Media.* Publicado en Betti-Sue Hertz
 http://manovich.net/content/04-projects/055-understanding-hybrid-media/52_article_2007.pdf
 
 Manovich, Lev (2013), *Software takes command.* Bloomsbury Academic. Citado en Adell Ferran, *Remediación, multimedia e hibridación de los medios.* http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+---
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
