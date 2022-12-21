@@ -41,9 +41,25 @@ Linklater ya había experimentado con las técnicas de rotoscopia en su películ
 <img src="https://images.squarespace-cdn.com/content/v1/57e05e534402434aa0f846c2/1550204169006-GZX7U7AZD8A2E0KEF47P/MV5BMTUzMTQyNTM0OV5BMl5BanBnXkFtZTcwMTM1NDkxNA%2540%2540._V1_SX1777_CR0%252C0%252C1777%252C999_AL_.jpg?format=1000w" alt="Fotograma de la película A Scanner Darkly, Keanu Reeves" width="200">
 <figcaption><em>A Scanner Darkly © Warner Bros Entertainment Inc.</em></figcaption>
 </figure>
+
 <figure>
 <img src="https://www.slashfilm.com/img/gallery/how-school-of-rock-pushed-robert-downey-jr-to-star-in-a-scanner-darkly/intro-1657228293.jpg" alt="Fotograma de la película A Scanner Darkly, Robert Downey Jr." width="200">
 <figcaption><em>A Scanner Darkly © Warner Bros Entertainment Inc.</em></figcaption>
+</figure>
+
+<figure>
+<img src="" alt="" width="200">
+<figcaption><em>Waking Life © 20th Century Fox Film Corp.</em></figcaption>
+</figure>
+
+<figure>
+<img src="" alt="" width="200">
+<figcaption><em>Waking Life © 20th Century Fox Film Corp.</em></figcaption>
+</figure>
+
+<figure>
+<img src="https://media.press.amazonstudios.com/userfiles/images/Undone/Episodic/UNDONE_102_SG_023_rgb_thumb.JPG" alt="" width="200">
+<figcaption><em>Undone - Episode 102 - The hospital - Courtesy of Amazon Studios © Amazon Studios</em></figcaption>
 </figure>
 
 ![Fotograma de la película Waking Life](https://pics.filmaffinity.com/Waking_Life-893719971-large.jpg)
