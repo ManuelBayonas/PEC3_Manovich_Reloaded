@@ -69,7 +69,7 @@ Respecto al guión, está estructurado como en un psicothriller, un subgénero q
 La narrativa audiovisual utiliza recursos de composición y movimientos de cámara del cine durante las secuencias de animación pero también en los momentos en que el jugador debe participar en la acción. Antecedentes del género de los videojuegos de ‘survival horror’ como *Alone in the Dark* (Frédérick Raynal, 1992) o *Silent Hill* (Keiichiro Toyama, 1999) no habían conseguido mantener el lenguaje cinematográfico durante las secuencias de acción.
 
 
-El la siguiente tabla podemos observar que en Heavy Rain, tanto las secuencias de vídeo como las secuencias de juego conservan composiciones significativas. En cambio, en Silent Hill la cámara, situada en picado permanente durante la acción, rompe la ilusión cinematográfica.
+El la siguiente tabla podemos observar que en *Heavy Rain*, tanto las secuencias de vídeo como las secuencias de juego conservan composiciones significativas. En cambio, en Silent Hill la cámara, situada en picado permanente durante la acción, rompe la ilusión cinematográfica.
 
 |Secuencias de vídeo|Secuencias de acción|
 |---|---|
