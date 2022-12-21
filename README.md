@@ -12,7 +12,8 @@ Incluir párrafo introductorio que cohesione el resto del contenido
 > Todos seremos transformados, siguió pensando tristemente, porque ahora
 > mismo estamos jodidamente invertidos.
 > *Una mirada a la oscuridad*, **Phillip K. Dick**
-<br>
+
+
 ![Póster promocional de la película Una mirada en la oscuridad, dirigida por Richard Linklater](images/A_Scanner_Darkly_Poster.png)
 *A Scanner Darkly © Warner Bros Entertainment Inc.*
 
