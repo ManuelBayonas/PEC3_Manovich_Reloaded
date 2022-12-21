@@ -47,6 +47,6 @@ Linklater ya había experimentado con las técnicas de rotoscopia en su películ
 #### Tabla comparativa de imágens que pretenden ser más realistas en contraposición a las que tienen un carácter onírico y distorsionado
 |Imágenes realistas|Imágenes oníricas|
 |---|---|
-|![A Scanner Darkly, representación realista](images/A_Scanner_Darkly_realista.jpg) *A Scanner Darkly © Warner Bros Entertainment Inc.*|![A Scanner Darkly, representación realista](images/A_Scanner_Darkly_onírica.jpg) *A Scanner Darkly © Warner Bros Entertainment Inc.*|
-|||
-|||
+|![A Scanner Darkly, representación realista](images/A_Scanner_Darkly_realista.jpg) *A Scanner Darkly © Warner Bros Entertainment Inc.*|![A Scanner Darkly, representación onírica](images/A_Scanner_Darkly_onírica.jpg) *A Scanner Darkly © Warner Bros Entertainment Inc.*|
+|![Waking Life, representación realista](images/Waking_Life_realista.jpeg)*Waking Life © 20th Century Fox Film Corp.*|![Waking Life, representación onírica](images/Waking_Life_onírica.jpg)*Waking Life © 20th Century Fox Film Corp.*|
+|![Undone, representación realista](images/Undone_realista.jpeg)*Undone © Amazon Studios*|![Undone, representación onírica](images/Undone_onírica.jpg)*Undone © Amazon Studios*|
