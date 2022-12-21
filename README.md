@@ -53,7 +53,7 @@ Linklater ya había experimentado con las técnicas de rotoscopia en su películ
 |![Undone, representación realista](images/Undone_realista.jpeg)*Undone © Amazon Studios*|![Undone, representación onírica](images/Undone_onírica.jpg)*Undone © Amazon Studios*|
 
 ***
-
+***
 ## Heavy Rain: Hibridación entre cine y videojuegos
 
 >A glimpse into the world proves that horror is nothing other than reality.
