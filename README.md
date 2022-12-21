@@ -14,6 +14,7 @@
 > Todos seremos transformados, siguió pensando tristemente, porque ahora
 > mismo estamos jodidamente invertidos.
 > *Una mirada a la oscuridad*, **Phillip K. Dick**
+
 \
 ![Póster promocional de la película Una mirada en la oscuridad, dirigida por Richard Linklater](images/A_Scanner_Darkly_promo.jpg)
 *A Scanner Darkly © Warner Bros Entertainment Inc.*  
