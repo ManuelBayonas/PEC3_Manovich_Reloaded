@@ -58,7 +58,7 @@ Linklater ya había experimentado con las técnicas de rotoscopia en su películ
 </figure>
 
 <figure>
-<img src="https://drive.google.com/file/d/1hyzRvf-vpUPM70bTdE0Xf57WFoKrbAjt/view" alt="Imagen de Rosa Salazar (Alma Winograd-Díaz)">
+<img src="https://www.lavanguardia.com/files/content_image_desktop_filter/uploads/2019/09/25/5fa5337e1c778.jpeg" alt="Imagen de Rosa Salazar (Alma Winograd-Díaz)">
 <figcaption><em>Undone - Episode 102 - The hospital - Courtesy of Amazon Studios © Amazon Studios</em></figcaption>
 </figure>
 
