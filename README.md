@@ -59,7 +59,7 @@ Linklater ya había experimentado con las técnicas de rotoscopia en su películ
 >A glimpse into the world proves that horror is nothing other than reality.
 >**Alfred Hitchcock**
 
-![Imagen promocional del videojuego Heavy Rain](images/Heavy_Rain_banner.jpg)
+![Imagen promocional del videojuego Heavy Rain](images/Heavy_Rain_banner_2.jpg)
 *Heavy Rain © 2022 Quantic Dream*
 
 En el punto de intersección entre el ordenador, la televisión y el entretenimiento interactivo, encontramos el nacimiento de los videojuegos. Su desarrollo comienza a finales de la década de 1970, cuando el ordenador evoluciona como metamedio después de su primera fase de invención e implantación práctica (Manovich, 2013). La primera videoconsola surgió del reto de construir “la televisión perfecta”. Según la visión del ingeniero a cargo de este proyecto, Ralph Baer (1922-2014), este producto debía incluir necesariamente alguna función interactiva. Fruto de su trabajo, en 1972 se empezó a fabricar la Magnavox Odyssey, conocida como ‘la caja marrón’, un diseño sencillo de cuarenta transistores y cuarenta diodos para generar señales simples en la televisión (Baer y Hui, 2019). No tenía sonido y, para llevar la cuenta de las partidas de sus muy rudimentarios juegos, había que usar lápiz y papel. Una serie de accesorios periféricos e impresos acompañaban a la videoconsola, que fue un éxito de ventas. 
