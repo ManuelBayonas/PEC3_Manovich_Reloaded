@@ -14,7 +14,7 @@ Incluir párrafo introductorio que cohesione el resto del contenido
 > *Una mirada a la oscuridad*, **Phillip K. Dick**
 
 
-![Póster promocional de la película Una mirada en la oscuridad, dirigida por Richard Linklater](images/A_Scanner_Darkly_Poster.png)
+![Póster promocional de la película Una mirada en la oscuridad, dirigida por Richard Linklater](images/A_Scanner_Darkly_promo.jpg)
 *A Scanner Darkly © Warner Bros Entertainment Inc.*
 
 <figure>
