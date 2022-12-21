@@ -68,6 +68,12 @@ Respecto al guión, está estructurado como en un psicothriller, un subgénero q
 
 La narrativa audiovisual utiliza recursos de composición y movimientos de cámara del cine durante las secuencias de animación pero también en los momentos en que el jugador debe participar en la acción. Antecedentes del género de los videojuegos de ‘survival horror’ como Alone in the Dark (Frédérick Raynal, 1992) o Silent Hill (Keiichiro Toyama, 1999) no habían conseguido mantener el lenguaje cinematográfico durante las secuencias de acción.
 
+|Secuencias de vídeo|Secuencias de acción|
+|---|---|
+|![Heavy Rain 1-a](images/Heavy_Rain_secuencia_vídeo_1.jpg) *A Scanner Darkly © Warner Bros Entertainment Inc.*|![Heavy Rain 1-b](images/Heavy_Rain_secuencia_acción_1.jpg) *A Scanner Darkly © Warner Bros Entertainment Inc.*|
+|![Heavy Rain 2-a](images/Waking_Life_realista.jpeg)*Waking Life © 20th Century Fox Film Corp.*|![Heavy Rain 2-b](images/Waking_Life_onírica.jpg)*Waking Life © 20th Century Fox Film Corp.*|
+|![Silent Hill 1-a](images/Undone_realista.jpeg)*Undone © Amazon Studios*|![Silent Hill 1-b](images/Undone_onírica.jpg)*Undone © Amazon Studios*|
+|![Silent Hill 2-a](images/Undone_realista.jpeg)*Undone © Amazon Studios*|![Silent Hill 2-b](images/Undone_onírica.jpg)*Undone © Amazon Studios*|
 Secuencias de vídeo (izquierda) y secuencias de acción (derecha) en Heavy Rain. Todas conservan composiciones significativas.
 Secuencias de vídeo (izquierda) y secuencias de acción (derecha) en Silent Hill. La cámara, situada en picado permanente durante la acción, rompe la ilusión cinematográfica.
 
@@ -76,8 +82,8 @@ La inclusión de la narrativa cinematográfica en el videojuego tiene su contrap
 ***
 ***
 ## Bibliografía
-### A Scanner Darkly
+### A Scanner Darkly: Hibridación entre cine tradicional e ilustración
 
-### Heavy Rain
+### Heavy Rain: Hibridación entre cine y videojuegos
 
 
