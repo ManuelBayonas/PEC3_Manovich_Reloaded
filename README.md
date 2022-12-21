@@ -3,8 +3,6 @@
 
 *Fecha:* 21/12/22
 
-Incluir párrafo introductorio que cohesione el resto del contenido
-
  - **A Scanner Darkly**: Hibridación entre cine tradicional e ilustración.
  - **Heavy Rain**: Hibridación entre cine y videojuegos.
 
@@ -16,7 +14,7 @@ Incluir párrafo introductorio que cohesione el resto del contenido
 
 
 ![Póster promocional de la película Una mirada en la oscuridad, dirigida por Richard Linklater](images/A_Scanner_Darkly_promo.jpg)
-*A Scanner Darkly © Warner Bros Entertainment Inc.*
+*A Scanner Darkly © Warner Bros Entertainment Inc.*. 
 
 
 La cinematografía se basa en la creación de secuencias de imágenes que simulan movimiento. Bien sea mediante el uso de cámaras analógicas o digitales, el cine es principalmente un medio fotográfico. Sin embargo, podemos encontrar casos de hibridación entre el medio cinematográfico y la ilustración. Un ejemplo significativo es la película *A Scanner Darkly* (Richard Linklater, 2006), filmada digitalmente y posteriormente ilustrada mediante **rotoscopia interpolada**. Mediante la hibridación, la película comunica de forma efectiva la narrativa distópica y fantástica de la novela original de Philip K. Dick, ambientada en una subcultura de las drogas, que juega con los binomios realidad y delirio, luz y oscuridad, vida y muerte.
