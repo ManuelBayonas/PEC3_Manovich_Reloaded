@@ -37,37 +37,9 @@ El hecho de que distintos medios tengan un punto de encuentro en común, el soft
 
 Linklater ya había experimentado con las técnicas de rotoscopia en su película Waking Life (2001). El resultado de este film se acerca mucho a la hibridación de la que habla Manovich, pero no llega a ser una fusión indistinguible de medios como en su obra de 2006. Otro ejemplo más reciente de hibridación entre cinematografía e ilustración es la serie Undone (Hisko Hulsing, 2019). En los tres casos, se hace evidente que la hibridación del cine tradicional y la ilustración es un modo idóneo de crear una narrativa onírica, distorsionada y extravagante, pero al mismo tiempo profundamente ligada a la realidad, algo que sería más difícil plasmar de manera convincente utilizando sólo una de estas técnicas.
 
-|<figure>
-<img src="https://images.squarespace-cdn.com/content/v1/57e05e534402434aa0f846c2/1550204169006-GZX7U7AZD8A2E0KEF47P/MV5BMTUzMTQyNTM0OV5BMl5BanBnXkFtZTcwMTM1NDkxNA%2540%2540._V1_SX1777_CR0%252C0%252C1777%252C999_AL_.jpg?format=1000w" alt="Fotograma de la película A Scanner Darkly, Keanu Reeves" width="400">
-<figcaption><em>A Scanner Darkly © Warner Bros Entertainment Inc.</em></figcaption>
-</figure>|
 
-<figure>
-<img src="https://www.slashfilm.com/img/gallery/how-school-of-rock-pushed-robert-downey-jr-to-star-in-a-scanner-darkly/intro-1657228293.jpg" alt="Fotograma de la película A Scanner Darkly, Robert Downey Jr." width="400">
-<figcaption><em>A Scanner Darkly © Warner Bros Entertainment Inc.</em></figcaption>
-</figure>
 
-<figure>
-<img src="https://pics.filmaffinity.com/Waking_Life-893719971-large.jpg" alt="Fotograma de la película Waking Life" width="400">
-<figcaption><em>Waking Life © 20th Century Fox Film Corp.</em></figcaption>
-</figure>
 
-<figure>
-<img src="https://filmgrab.files.wordpress.com/2014/07/4385.jpg" alt="Fotograma de la película Waking Life" width="400">
-<figcaption><em>Waking Life © 20th Century Fox Film Corp.</em></figcaption>
-</figure>
-
-<figure>
-<img src="https://www.lavanguardia.com/files/content_image_desktop_filter/uploads/2019/09/25/5fa5337e1c778.jpeg" alt="Imagen de Rosa Salazar (Alma Winograd-Díaz)" width="400">
-<figcaption><em>Undone - Episode 102 - The hospital - Courtesy of Amazon Studios © Amazon Studios</em></figcaption>
-</figure>
-
-<figure>
-<img src="https://pyxis.nymag.com/v1/imgs/d23/e78/2d309f66425fc1b1497511bf0fd5fe5317-undone-recap-4.2x.rsocial.w600.jpg" alt="De izquierda a derecha - Imagen de Rosa Salazar (Alma Winograd-Díaz) - Imagen de Bob Odenkirk (Jacob Winograd)" width="400">
-<figcaption><em>Undone - Episode 104 - Moving the keys - Courtesy of Amazon Studios © Amazon Studios</em></figcaption>
-</figure>
-
-|   |   |
-|---|---|
-|   |   |
+|<figure><img src="https://images.squarespace-cdn.com/content/v1/57e05e534402434aa0f846c2/1550204169006-GZX7U7AZD8A2E0KEF47P/MV5BMTUzMTQyNTM0OV5BMl5BanBnXkFtZTcwMTM1NDkxNA%2540%2540._V1_SX1777_CR0%252C0%252C1777%252C999_AL_.jpg?format=1000w" alt="Fotograma de la película A Scanner Darkly, Keanu Reeves" width="400"><figcaption><em>A Scanner Darkly © Warner Bros Entertainment Inc.</em></figcaption></figure>|<figure><img src="https://www.slashfilm.com/img/gallery/how-school-of-rock-pushed-robert-downey-jr-to-star-in-a-scanner-darkly/intro-1657228293.jpg" alt="Fotograma de la película A Scanner Darkly, Robert Downey Jr." width="400"><figcaption><em>A Scanner Darkly © Warner Bros Entertainment Inc.</em></figcaption></figure>|
+|<figure><img src="https://pics.filmaffinity.com/Waking_Life-893719971-large.jpg" alt="Fotograma de la película Waking Life" width="400"><figcaption><em>Waking Life © 20th Century Fox Film Corp.</em></figcaption></figure>|<figure><img src="https://filmgrab.files.wordpress.com/2014/07/4385.jpg" alt="Fotograma de la película Waking Life" width="400"><figcaption><em>Waking Life © 20th Century Fox Film Corp.</em></figcaption></figure>|
 |<figure><img src="https://www.lavanguardia.com/files/content_image_desktop_filter/uploads/2019/09/25/5fa5337e1c778.jpeg" alt="Imagen de Rosa Salazar (Alma Winograd-Díaz)" width="400"><figcaption><em>Undone - Episode 102 - The hospital - Courtesy of Amazon Studios © Amazon Studios</em></figcaption></figure>|<figure><img src="https://pyxis.nymag.com/v1/imgs/d23/e78/2d309f66425fc1b1497511bf0fd5fe5317-undone-recap-4.2x.rsocial.w600.jpg" alt="De izquierda a derecha - Imagen de Rosa Salazar (Alma Winograd-Díaz) - Imagen de Bob Odenkirk (Jacob Winograd)" width="400"><figcaption><em>Undone - Episode 104 - Moving the keys - Courtesy of Amazon Studios © Amazon Studios</em></figcaption></figure>|
