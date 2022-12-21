@@ -4,7 +4,7 @@
 
 *Fecha:* 21/12/22
 
- - **A Scanner Darkly**: Hibridación entre cine tradicional e ilustración.
+ - ***A Scanner Darkly***: Hibridación entre cine tradicional e ilustración.
  - **Heavy Rain**: Hibridación entre cine y videojuegos.
 
 
