@@ -6,6 +6,7 @@
 
  - **A Scanner Darkly**: Hibridación entre cine tradicional e ilustración.
  - **Heavy Rain**: Hibridación entre cine y videojuegos.
+
 \
 \
 ## A Scanner Darkly: Hibridación entre cine tradicional e ilustración
