@@ -20,12 +20,12 @@ Incluir párrafo introductorio que cohesione el resto del contenido
 <br>
 <br> 
 La cinematografía se basa en la creación de secuencias de imágenes que simulan movimiento. Bien sea mediante el uso de cámaras analógicas o digitales, el cine es principalmente un medio fotográfico. Sin embargo, podemos encontrar casos de hibridación entre el medio cinematográfico y la ilustración. Un ejemplo significativo es la película *A Scanner Darkly* (Richard Linklater, 2006), filmada digitalmente y posteriormente ilustrada mediante **rotoscopia interpolada**. Mediante la hibridación, la película comunica de forma efectiva la narrativa distópica y fantástica de la novela original de Philip K. Dick, ambientada en una subcultura de las drogas, que juega con los binomios realidad y delirio, luz y oscuridad, vida y muerte.
-
+---
 ### Primeras hibridaciones cinematográficas
 
 Hoy en día, la hibridación en cinematografía es la norma, mientras que cualquier estilo singular de creación - acción en vivo, ilustración, animación digital, fotograma a fotograma, etc.- es excepcional. Sin embargo, los primeros ejemplos de hibridación eran una especie de collage en el que las diferentes técnicas utilizadas eran evidentes a simple vista. La fusión de medios se perfecciona por primera vez en la película Matrix (Lilly y Lana Wachowski, 1999), en la que es imposible distinguir entre las escenas filmadas y las generadas por ordenador. Es en este momento cuando se puede hablar de “una nueva especie, un nuevo tipo de estética visual que no existía previamente” (Manovich, 2007).
 
-### El caso de Linklater
+### La visión de Linklater
 
 Se propone que la película A Scanner Darkly supone un hito similar de la hibridación cinematográfica. En este caso, mediante la fusión de la fotografía y la ilustración creada por rotoscopia. Esta técnica se remonta a los inicios del cine, cuando se utilizaba para trazar secuencias de acción en vivo, proyectadas fotograma a fotograma sobre papel, como referencia del movimiento para los animadores. En 1919, se publicó el primer personaje de dibujos animados creado por rotoscopia, ‘Koko el payaso’, de Max Fleischer. Un siglo más tarde, esta labor se realiza de forma digital utilizando programas informáticos como Nuke, Silhouette o After Effects (Reinares y Torres, 2019).
 
